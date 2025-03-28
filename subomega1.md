@@ -55,9 +55,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/subomega1">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=subomega1_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subomega1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -66,7 +66,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ahmed-khalil-sfar-a64778316/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"/></a>
-<a href="sfarahmed32@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="sfarahmed32@gmail.com"><img src="https://img.shields.io/badge/-sfarahmed32@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 -----
 
