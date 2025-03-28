@@ -7,7 +7,7 @@
 
 💡 &nbsp;I enjoy exploring new technologies, solving problems, and building software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science at the University of El Manar, focusing on backend development and networking.\
-🌱 &nbsp;I'm currently studying Artificial Intelligence and Cloud Architecture, while refining my skills in Spring Boot, and React,git and docker.\
+🌱 &nbsp;I'm currently studying Artificial Intelligence and Cloud Architecture, while refining my skills in Spring Boot, and React,Git and Docker.\
 ✍️ &nbsp;In my free time, I enjoy tweaking my Linux setup, and sharing knowledge through teaching and technical writing.\
 💬 &nbsp;Feel free to reach out if you want to discuss backend development, system architecture, or just have an interesting tech chat.\
 ✉️ &nbsp;For inquiries, please feel free to reach out to me at [sfarahmed32@gmail.com](mailto:sfarahmed32@gmail.com). I will respond as promptly as possible.\
