@@ -8,9 +8,9 @@
 💡 &nbsp;I love exploring new technologies, solving complex problems, and building practical software solutions. From full-stack development to system-level programming, I enjoy tackling challenges across different domains.\
 🎓 &nbsp;I'm currently studying Computer Science at the University of El Manar, focusing on backend development, AI, and networking.\
 🌱 &nbsp; I'm diving deeper into Artificial Intelligence, Systems Design, and Low-Level Programming while refining my skills in Spring Boot, PostgreSQL, and React.I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.In my free time, I enjoy competitive programming, tweaking my Linux setup, and sharing knowledge through teaching and technical writing.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.Feel free to reach out if you want to discuss backend development, system architecture, or just have an interesting tech chat.\
-✉️ &nbsp;You can shoot me an email at sfarahmed32@gmail.com! I'll try to respond as soon as I can.\
+✍️ &nbsp;In my free time, I enjoy competitive programming, tweaking my Linux setup, and sharing knowledge through teaching and technical writing.\
+💬 &nbsp;Feel free to reach out if you want to discuss backend development, system architecture, or just have an interesting tech chat.\
+✉️ &nbsp;For inquiries, please feel free to reach out to me at [sfarahmed32@gmail.com](mailto:sfarahmed32@gmail.com). I will respond as promptly as possible.
 📄 &nbsp;Please have a look at my [Résumé](https://github.com/subomega1/subomega1/blob/main/CV_Ahmed_Sfar.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
