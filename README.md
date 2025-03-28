@@ -66,6 +66,6 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ahmed-khalil-sfar-a64778316/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"/></a>
-<a href="sfarahmed32@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="sfarahmed32@gmail.com"><img src="https://img.shields.io/badge/-sfarahmed32@gmail.com?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
