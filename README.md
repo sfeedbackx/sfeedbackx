@@ -12,7 +12,7 @@
 💬 &nbsp;Feel free to reach out if you want to discuss backend development, system architecture, or just have an interesting tech chat.\
 ✉️ &nbsp;For inquiries, please feel free to reach out to me at [sfarahmed32@gmail.com](mailto:sfarahmed32@gmail.com). I will respond as promptly as possible.\
 📄 &nbsp;Please have a look at my [Résumé](https://github.com/subomega1/subomega1/blob/main/CV_Ahmed_Sfar.pdf) for more details about me.
- I'm open to feedback and suggestions!
+ I'm open to jobs,interships,feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
