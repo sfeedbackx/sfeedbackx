@@ -14,7 +14,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://github.com/subomega1/subomega1/blob/main/CV_Ahmed_Sfar.pdf) for more details about me.
  I'm open to jobs,interships,feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!--img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/-->
 
 ### 🛠 &nbsp;Tech Stack
 
