@@ -11,8 +11,8 @@
 ✍️ &nbsp;In my free time, I enjoy tweaking my Linux setup, and sharing knowledge through teaching and technical writing.\
 💬 &nbsp;Feel free to reach out if you want to discuss backend development, system architecture, or just have an interesting tech chat.\
 ✉️ &nbsp;For inquiries, please feel free to reach out to me at [sfarahmed32@gmail.com](mailto:sfarahmed32@gmail.com). I will respond as promptly as possible.\
-🌐 &nbsp;Portfolio: [My Website](https://portfolio-qfnmcia2f-sfeedbackxs-projects.vercel.app)\
-📄 &nbsp;Please have a look at my [Résumé](https://portfolio-qfnmcia2f-sfeedbackxs-projects.vercel.app/CV_Ahmed_Sfar.pdf) for more details about me.
+🌐 &nbsp;Portfolio: [My Website](https://portfolio-oksptbw8f-sfeedbackxs-projects.vercel.app/)\
+📄 &nbsp;Please have a look at my [Résumé](https://portfolio-oksptbw8f-sfeedbackxs-projects.vercel.app/CV_Ahmed_Sfar.pdf) for more details about me.
  I'm open to jobs,interships,feedback and suggestions!
 
 <!--img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/-->
