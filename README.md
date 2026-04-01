@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying Computer Science at the University of El Manar.\
+🎓 &nbsp;I'm currently studying Computer Science at the University of El Manar.
 
 <!--img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/-->
 
